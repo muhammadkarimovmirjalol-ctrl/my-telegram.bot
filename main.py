@@ -3,7 +3,7 @@ import random
 from telebot import types
 
 # ⚠️ DIQQAT: @BotFather dan olgan YANGI tokenni shu yerga qo'ying!
-TOKEN = '8786107780:AAGdJ4Z_h0TlKB8SHR-bc0T2pRoyJcEnc6g'
+TOKEN = '8241530988:AAEWqBJhQZR7G5b5MCnaL4Xbe_MHtJHpUXw'
 bot = telebot.TeleBot(TOKEN)
 
 LEVELS = {
